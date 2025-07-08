@@ -21,6 +21,7 @@
 1. 运行后建议重启 Termux 或执行：
    ```bash
    source ~/.bashrc
+   
 2.依次执行以下命令查看是否有输出：
    ```bash
    micro --version
