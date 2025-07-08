@@ -23,17 +23,17 @@
 2.依次执行以下命令查看是否有输出：
 ```bash
 micro --version
-```bash
+
 nmap --version
-```bash
+
 whois -h
-```bash
+
 curl --version
-```bash
+
 wget --version
-```bash
+
 sqlmap --help
-```bash
+
 whatweb --help
-```bash
+
 ffuf -h
