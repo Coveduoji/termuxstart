@@ -32,12 +32,19 @@
 在终端依次运行以下命令检查工具是否正常安装：
 
 `micro --version`
+
 `nmap --version`
+
 `whois -h`
+
 `curl --version`
+
 `wget --version`
+
 `sqlmap --help`
+
 `whatweb --help`
+
 `ffuf -h`
 
 若显示相关帮助或版本信息，说明安装成功。
