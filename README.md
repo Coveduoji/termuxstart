@@ -22,19 +22,19 @@
    ```bash
    source ~/.bashrc
 2.依次执行以下命令查看是否有输出：
-```bash
-micro --version
-
-nmap --version
-
-whois -h
-
-curl --version
-
-wget --version
-
-sqlmap --help
-
-whatweb --help
-
-ffuf -h
+   ```bash
+   micro --version
+   
+   nmap --version
+   
+   whois -h
+   
+   curl --version
+   
+   wget --version
+   
+   sqlmap --help
+   
+   whatweb --help
+   
+   ffuf -h
